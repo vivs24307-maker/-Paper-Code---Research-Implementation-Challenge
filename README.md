@@ -1,4 +1,4 @@
-# Backpropagation Replication (Rumelhart et al., 1986)
+# Backpropagation Replication (Rumelhart, Hinton, and Williams, 1986)
 
 This repository contains a from-scratch implementation of the Multi-Layer Perceptron (MLP) and backpropagation algorithm described in the 1986 paper *Learning Representations by Back-Propagating Errors*. 
 
